@@ -1,0 +1,9 @@
+F:\PRACTICS\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+F:\PRACTICS\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+F:\PRACTICS\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+F:\PRACTICS\PersonApp\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache
+F:\PRACTICS\PersonApp\PersonApp\obj\Debug\PersonApp.PersonAPPUI.resources
+F:\PRACTICS\PersonApp\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+F:\PRACTICS\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.Cache
+F:\PRACTICS\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+F:\PRACTICS\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
